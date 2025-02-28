@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpfMetamation_Task_AlarmApp", "TrumpfMetamation_Task_AlarmApp\TrumpfMetamation_Task_AlarmApp.csproj", "{FC5E6801-C039-401D-BF17-74BD3D419177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5E6801-C039-401D-BF17-74BD3D419177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5E6801-C039-401D-BF17-74BD3D419177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5E6801-C039-401D-BF17-74BD3D419177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5E6801-C039-401D-BF17-74BD3D419177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F97030C5-CD2A-4406-AF1B-3DD89C93334D}
+	EndGlobalSection
+EndGlobal
